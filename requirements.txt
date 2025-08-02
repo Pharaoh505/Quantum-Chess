@@ -1,11 +1,3 @@
 streamlit
 numpy
-python-chess
-qiskit
-matplotlib
-plotly
-streamlit-drawable-canvas
-pillow
-scipy
-networkx
-seaborn
+pandas
